@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Chapter4">
+      <UniqueIdentifier>{9395cae5-7026-4da1-b618-1b5c09893513}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -20,6 +23,21 @@
     </ClCompile>
     <ClCompile Include="Math.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C04_Exercise_4.2.cpp">
+      <Filter>Source Files\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="C04_Exercise_4.3.cpp">
+      <Filter>Source Files\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="C04_Exercise_4.4.cpp">
+      <Filter>Source Files\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="C04_Exercise_4.5.cpp">
+      <Filter>Source Files\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="C04_Exercise_4.6.cpp">
+      <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

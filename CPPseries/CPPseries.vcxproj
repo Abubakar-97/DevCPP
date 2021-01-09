@@ -139,6 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C04_Exercise_4.2.cpp" />
+    <ClCompile Include="C04_Exercise_4.3.cpp" />
+    <ClCompile Include="C04_Exercise_4.4.cpp" />
+    <ClCompile Include="C04_Exercise_4.5.cpp" />
+    <ClCompile Include="C04_Exercise_4.6.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Math.cpp" />
   </ItemGroup>
