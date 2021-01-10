@@ -1,9 +1,9 @@
-
-void four_five();
+void four_six();
 
 int main()
 {
 
-	four_five();
+	
+	four_six();
 	return 0;
 }
