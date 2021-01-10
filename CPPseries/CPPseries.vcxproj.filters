@@ -24,24 +24,27 @@
     <ClCompile Include="Math.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C04_Exercise_4.2.cpp">
+    <ClCompile Include="Chapter_04\C04_Exercise_4.6.cpp">
       <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
-    <ClCompile Include="C04_Exercise_4.3.cpp">
+    <ClCompile Include="Chapter_04\C04_Exercise_4.5.cpp">
       <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
-    <ClCompile Include="C04_Exercise_4.4.cpp">
+    <ClCompile Include="Chapter_04\C04_Exercise_4.4.cpp">
       <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
-    <ClCompile Include="C04_Exercise_4.5.cpp">
+    <ClCompile Include="Chapter_04\C04_Exercise_4.3.cpp">
       <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
-    <ClCompile Include="C04_Exercise_4.6.cpp">
+    <ClCompile Include="Chapter_04\C04_Exercise_4.2.cpp">
+      <Filter>Source Files\Chapter4</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter_04\C04_Exercise_4.7.cpp">
       <Filter>Source Files\Chapter4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="std_lib_facilities.h">
+    <ClInclude Include="Chapter_04\std_lib_facilities.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
